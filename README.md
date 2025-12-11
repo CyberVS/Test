@@ -1,3 +1,5 @@
+https://www.onlinegdb.com/online_python_compiler
+
 import random
 
 print("Привіт! Це твоя перша гра з вгадування чисел.\nВ тебе є 7 спроб, щоб вгадати число. Давай почнемо!")
